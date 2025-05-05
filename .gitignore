@@ -1,0 +1,6 @@
+# Compiled binaries
+mcp_snowflake_server
+mcp_snowflake_server.exe
+
+# Log files (if any created locally)
+*.log 
